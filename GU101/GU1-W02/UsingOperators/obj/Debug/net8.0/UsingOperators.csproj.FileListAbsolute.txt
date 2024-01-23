@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\bin\Debug\net8.0\UsingOperators.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\bin\Debug\net8.0\UsingOperators.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\bin\Debug\net8.0\UsingOperators.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\bin\Debug\net8.0\UsingOperators.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\bin\Debug\net8.0\UsingOperators.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\refint\UsingOperators.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\UsingOperators.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\UsingOperators\obj\Debug\net8.0\ref\UsingOperators.dll
