@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\refint\BMI-Calculator.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W02\BMI-Calculator\obj\Debug\net8.0\ref\BMI-Calculator.dll
