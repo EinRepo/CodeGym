@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\bin\Debug\net8.0\IsPrime.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\bin\Debug\net8.0\IsPrime.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\bin\Debug\net8.0\IsPrime.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\bin\Debug\net8.0\IsPrime.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\bin\Debug\net8.0\IsPrime.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\refint\IsPrime.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\IsPrime.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\IsPrime\obj\Debug\net8.0\ref\IsPrime.dll
