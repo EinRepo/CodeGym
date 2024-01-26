@@ -1,7 +1,0 @@
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\bin\Debug\NgonNguCSharp.exe.config
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\bin\Debug\NgonNguCSharp.exe
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\bin\Debug\NgonNguCSharp.pdb
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\obj\Debug\NgonNguCSharp.csproj.AssemblyReference.cache
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\obj\Debug\NgonNguCSharp.csproj.CoreCompileInputs.cache
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\obj\Debug\NgonNguCSharp.exe
-C:\Users\Thien\Desktop\CodeGym\TempName\NgonNguCSharp\obj\Debug\NgonNguCSharp.pdb

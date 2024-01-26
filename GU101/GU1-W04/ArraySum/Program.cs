@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotnet_array_manipulation
+namespace ArraySum
 {
     class Program
     {

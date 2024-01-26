@@ -1,7 +1,0 @@
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\bin\Debug\Buoi4_ThucHanhCauLenhDieuKien.exe.config
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\bin\Debug\Buoi4_ThucHanhCauLenhDieuKien.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\bin\Debug\Buoi4_ThucHanhCauLenhDieuKien.pdb
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\obj\Debug\Buoi4_ThucHanhCauLenhDieuKien.csproj.AssemblyReference.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\obj\Debug\Buoi4_ThucHanhCauLenhDieuKien.csproj.CoreCompileInputs.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\obj\Debug\Buoi4_ThucHanhCauLenhDieuKien.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi4_ThucHanhCauLenhDieuKien\Buoi4_ThucHanhCauLenhDieuKien\obj\Debug\Buoi4_ThucHanhCauLenhDieuKien.pdb

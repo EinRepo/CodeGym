@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindValueInArray", "FindValueInArray.csproj", "{EC46FA01-9086-4D8E-BBDB-66EB753483C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC46FA01-9086-4D8E-BBDB-66EB753483C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC46FA01-9086-4D8E-BBDB-66EB753483C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC46FA01-9086-4D8E-BBDB-66EB753483C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC46FA01-9086-4D8E-BBDB-66EB753483C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54332ECB-C1A6-421B-A108-42E56DB5443D}
+	EndGlobalSection
+EndGlobal
