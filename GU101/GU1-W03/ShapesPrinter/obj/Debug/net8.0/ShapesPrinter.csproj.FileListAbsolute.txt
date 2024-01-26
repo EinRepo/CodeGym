@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\bin\Debug\net8.0\ShapesPrinter.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\bin\Debug\net8.0\ShapesPrinter.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\bin\Debug\net8.0\ShapesPrinter.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\bin\Debug\net8.0\ShapesPrinter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\bin\Debug\net8.0\ShapesPrinter.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\refint\ShapesPrinter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ShapesPrinter.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W03\ShapesPrinter\obj\Debug\net8.0\ref\ShapesPrinter.dll

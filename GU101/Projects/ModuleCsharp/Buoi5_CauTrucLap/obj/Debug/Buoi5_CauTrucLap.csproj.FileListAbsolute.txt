@@ -1,0 +1,7 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\bin\Debug\Buoi5_CauTrucLap.exe.config
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\bin\Debug\Buoi5_CauTrucLap.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\bin\Debug\Buoi5_CauTrucLap.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\obj\Debug\Buoi5_CauTrucLap.csproj.AssemblyReference.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\obj\Debug\Buoi5_CauTrucLap.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\obj\Debug\Buoi5_CauTrucLap.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\ModuleCsharp\Buoi5_CauTrucLap\obj\Debug\Buoi5_CauTrucLap.pdb

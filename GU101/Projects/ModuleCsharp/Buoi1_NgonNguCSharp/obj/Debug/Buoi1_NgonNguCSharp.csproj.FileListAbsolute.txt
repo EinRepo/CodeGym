@@ -1,0 +1,14 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe.config
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.AssemblyReference.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.pdb
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe.config
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.pdb
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.AssemblyReference.cache
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.exe
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.pdb

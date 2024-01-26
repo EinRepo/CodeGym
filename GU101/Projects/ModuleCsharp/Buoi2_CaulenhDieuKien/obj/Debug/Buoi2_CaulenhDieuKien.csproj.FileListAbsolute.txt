@@ -1,0 +1,7 @@
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\bin\Debug\Buoi2_CaulenhDieuKien.exe.config
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\bin\Debug\Buoi2_CaulenhDieuKien.exe
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\bin\Debug\Buoi2_CaulenhDieuKien.pdb
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\obj\Debug\Buoi2_CaulenhDieuKien.csproj.AssemblyReference.cache
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\obj\Debug\Buoi2_CaulenhDieuKien.csproj.CoreCompileInputs.cache
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\obj\Debug\Buoi2_CaulenhDieuKien.exe
+C:\Users\Thien\OneDrive\Documents\GitHub\CodeGym\CodeGym\GU101\Projects\Buoi2_CaulenhDieuKien\Buoi2_CaulenhDieuKien\obj\Debug\Buoi2_CaulenhDieuKien.pdb
