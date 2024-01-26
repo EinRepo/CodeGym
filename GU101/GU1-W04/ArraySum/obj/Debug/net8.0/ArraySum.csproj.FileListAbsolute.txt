@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\bin\Debug\net8.0\ArraySum.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\bin\Debug\net8.0\ArraySum.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\bin\Debug\net8.0\ArraySum.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\bin\Debug\net8.0\ArraySum.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\bin\Debug\net8.0\ArraySum.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\refint\ArraySum.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ArraySum.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArraySum\obj\Debug\net8.0\ref\ArraySum.dll
