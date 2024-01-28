@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\bin\Debug\net8.0\ArrayFindMax.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\bin\Debug\net8.0\ArrayFindMax.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\bin\Debug\net8.0\ArrayFindMax.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\bin\Debug\net8.0\ArrayFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\bin\Debug\net8.0\ArrayFindMax.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\refint\ArrayFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ArrayFindMax.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\ArrayFindMax\obj\Debug\net8.0\ref\ArrayFindMax.dll
