@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\bin\Debug\net8.0\Array2DFindMax.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\bin\Debug\net8.0\Array2DFindMax.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\bin\Debug\net8.0\Array2DFindMax.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\bin\Debug\net8.0\Array2DFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\bin\Debug\net8.0\Array2DFindMax.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\refint\Array2DFindMax.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\Array2DFindMax.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\Array2DFindMax\obj\Debug\net8.0\ref\Array2DFindMax.dll
