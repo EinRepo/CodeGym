@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\bin\Debug\net8.0\DiagonalSumSquareMatrix.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\bin\Debug\net8.0\DiagonalSumSquareMatrix.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\bin\Debug\net8.0\DiagonalSumSquareMatrix.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\bin\Debug\net8.0\DiagonalSumSquareMatrix.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\bin\Debug\net8.0\DiagonalSumSquareMatrix.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\refint\DiagonalSumSquareMatrix.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\DiagonalSumSquareMatrix.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\DiagonalSumSquareMatrix\obj\Debug\net8.0\ref\DiagonalSumSquareMatrix.dll
