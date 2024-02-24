@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\DiagonalSumSquareMatrix\\DiagonalSumSquareMatrix.csproj",
-      "projectName": "DiagonalSumSquareMatrix",
-      "projectPath": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\DiagonalSumSquareMatrix\\DiagonalSumSquareMatrix.csproj",
+      "projectUniqueName": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\MineSweeper\\MineSweeper.csproj",
+      "projectName": "MineSweeper",
+      "projectPath": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\MineSweeper\\MineSweeper.csproj",
       "packagesPath": "C:\\Users\\Thien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\DiagonalSumSquareMatrix\\obj\\",
+      "outputPath": "C:\\Users\\Thien\\Desktop\\CodeGym\\GU101\\GU1-W04\\MineSweeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thien\\AppData\\Roaming\\NuGet\\NuGet.Config",

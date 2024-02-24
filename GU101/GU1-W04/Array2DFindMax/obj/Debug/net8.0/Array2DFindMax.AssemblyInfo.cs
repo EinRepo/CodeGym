@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array2DFindMax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf176c526cf3fb9a63cf830024993f9ca24cb0fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90036747573c251afe66ff833f3ea91f12c4f434")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array2DFindMax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array2DFindMax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\bin\Debug\net8.0\MineSweeper.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\bin\Debug\net8.0\MineSweeper.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\bin\Debug\net8.0\MineSweeper.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\bin\Debug\net8.0\MineSweeper.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\bin\Debug\net8.0\MineSweeper.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\refint\MineSweeper.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\MineSweeper.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W04\MineSweeper\obj\Debug\net8.0\ref\MineSweeper.dll

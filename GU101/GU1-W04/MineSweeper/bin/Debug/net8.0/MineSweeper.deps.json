@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "DiagonalSumSquareMatrix/1.0.0": {
+      "MineSweeper/1.0.0": {
         "runtime": {
-          "DiagonalSumSquareMatrix.dll": {}
+          "MineSweeper.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DiagonalSumSquareMatrix/1.0.0": {
+    "MineSweeper/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
