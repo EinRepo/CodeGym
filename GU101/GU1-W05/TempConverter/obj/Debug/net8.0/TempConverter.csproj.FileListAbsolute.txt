@@ -1,0 +1,15 @@
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\bin\Debug\net8.0\TempConverter.exe
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\bin\Debug\net8.0\TempConverter.deps.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\bin\Debug\net8.0\TempConverter.runtimeconfig.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\bin\Debug\net8.0\TempConverter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\bin\Debug\net8.0\TempConverter.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.AssemblyInfo.cs
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.sourcelink.json
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\refint\TempConverter.dll
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.pdb
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\TempConverter.genruntimeconfig.cache
+C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TempConverter\obj\Debug\net8.0\ref\TempConverter.dll
