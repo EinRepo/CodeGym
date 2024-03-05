@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotnet_change_temperature
+namespace TempConverter
 {
     class Program
     {
