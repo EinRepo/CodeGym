@@ -1,204 +1,160 @@
 ﻿using System;
 using System.Threading;
 
-namespace ConsoleSnakeGame
+class Program
 {
-    class Program
+    static int screenWidth = 20;
+    static int screenHeight = 10;
+    static char snakeSymbol = 'O';
+    static char foodSymbol = 'X';
+    static char wallSymbol = '#';
+
+    static int[] snakeX;
+    static int[] snakeY;
+    static int snakeLength;
+    static int foodX;
+    static int foodY;
+    static ConsoleKeyInfo keyInfo;
+    static ConsoleKey currentDirection;
+    static bool gameover;
+
+    static void Main(string[] args)
     {
-        static int width = 20;
-        static int height = 10;
-        static int snakeX, snakeY;
-        static int fruitX, fruitY;
-        static int score;
-        static bool gameOver;
-        static Direction direction;
+        Console.CursorVisible = false;
+        Console.SetWindowSize(screenWidth, screenHeight + 2);
+        Console.SetBufferSize(screenWidth, screenHeight + 2);
+        Console.ForegroundColor = ConsoleColor.Green;
 
-        static int[] tailX = new int[100];
-        static int[] tailY = new int[100];
-        static int tailLength;
+        InitializeGame();
 
-        enum Direction
-        {
-            None,
-            Up,
-            Down,
-            Left,
-            Right
-        }
-
-        static void Main(string[] args)
-        {
-            Console.SetWindowSize(width + 3, height + 4); //make the console size fit the playing field
-            Console.SetBufferSize(width + 3, height + 4);
-            Console.CursorVisible = true;
-            SetupGame();
-            
-
-            while (!gameOver)
-            {
-                Draw();
-                Input();
-                Logic();
-                Thread.Sleep(100);
-            }
-
-            Console.CursorVisible = true;
-        }
-
-        static void SetupGame()
-        {
-            Random random = new Random();
-            snakeX = width / 2;
-            snakeY = height / 2;
-            fruitX = random.Next(0, width);
-            fruitY = random.Next(0, height);
-            score = 0;
-            tailLength = 0;
-            direction = Direction.None;
-            gameOver = false;
-        }
-
-        static void Draw()
-        {
-            Console.Clear();
-
-            for (int i = 0; i < width + 2; i++)
-                Console.Write("#");
-            Console.WriteLine();
-
-            for (int y = 0; y < height; y++)
-            {
-                for (int x = 0; x < width; x++)
-                {
-                    if (x == 0)
-                        Console.Write("#");
-
-                    if (x == snakeX && y == snakeY)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.Write("O");
-                        Console.ResetColor();
-                    }
-                    else if (x == fruitX && y == fruitY)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.Write("F");
-                        Console.ResetColor();
-                    }
-                    else
-                    {
-                        bool isTail = false;
-                        for (int t = 0; t < tailLength; t++)
-                        {
-                            if (tailX[t] == x && tailY[t] == y)
-                            {
-                                Console.ForegroundColor = ConsoleColor.Yellow; // Set body color
-                                Console.Write("o");
-                                Console.ResetColor();
-                                isTail = true;
-                                break;
-                            }
-                        }
-
-                        if (!isTail)
-                            Console.Write(" ");
-                    }
-
-                    if (x == width - 1)
-                        Console.Write("#");
-                }
-                Console.WriteLine();
-            }
-
-            for (int i = 0; i < width + 2; i++)
-                Console.Write("#");
-            Console.WriteLine();
-
-            Console.SetCursorPosition(0, height + 2);
-            Console.WriteLine("Score: " + score);
-        }
-
-        static void Input()
+        while (!gameover)
         {
             if (Console.KeyAvailable)
             {
-                ConsoleKeyInfo key = Console.ReadKey(true);
-                switch (key.Key)
-                {
-                    case ConsoleKey.UpArrow:
-                        if (direction != Direction.Down)
-                            direction = Direction.Up;
-                        break;
-                    case ConsoleKey.DownArrow:
-                        if (direction != Direction.Up)
-                            direction = Direction.Down;
-                        break;
-                    case ConsoleKey.LeftArrow:
-                        if (direction != Direction.Right)
-                            direction = Direction.Left;
-                        break;
-                    case ConsoleKey.RightArrow:
-                        if (direction != Direction.Left)
-                            direction = Direction.Right;
-                        break;
-                    case ConsoleKey.Escape:
-                        gameOver = true;
-                        break;
-                }
+                keyInfo = Console.ReadKey(true);
+                currentDirection = keyInfo.Key;
             }
+
+            MoveSnake();
+            CheckCollision();
+            DrawScreen();
+
+            Thread.Sleep(200);
         }
 
-        static void Logic()
+        Console.SetCursorPosition(0, screenHeight);
+        Console.WriteLine("Game Over. Press any key to exit...");
+        Console.ReadKey();
+    }
+
+    static void InitializeGame()
+    {
+        int maxSnakeLength = (screenWidth -2) * (screenHeight - 2);
+        snakeX = new int[maxSnakeLength];
+        snakeY = new int[maxSnakeLength];
+        snakeLength = 1;
+        snakeX[0] = screenWidth / 2;
+        snakeY[0] = screenHeight / 2;
+        currentDirection = ConsoleKey.RightArrow;
+        gameover = false;
+
+        GenerateFood();
+    }
+
+    static void GenerateFood()
+    {
+        Random random = new Random();
+        foodX = random.Next(1, screenWidth - 1);
+        foodY = random.Next(1, screenHeight - 1);
+    }
+
+    static void MoveSnake()
+    {
+        int snakeHeadX = snakeX[0];
+        int snakeHeadY = snakeY[0];
+
+        switch (currentDirection)
         {
-            int prevX = tailX[0];
-            int prevY = tailY[0];
-            int prev2X, prev2Y;
-            tailX[0] = snakeX;
-            tailY[0] = snakeY;
+            case ConsoleKey.UpArrow:
+                snakeHeadY--;
+                break;
+            case ConsoleKey.DownArrow:
+                snakeHeadY++;
+                break;
+            case ConsoleKey.LeftArrow:
+                snakeHeadX--;
+                break;
+            case ConsoleKey.RightArrow:
+                snakeHeadX++;
+                break;
+        }
 
-            for (int i = 1; i < tailLength; i++)
+        for (int i = snakeLength - 1; i > 0; i--)
+        {
+            snakeX[i] = snakeX[i - 1];
+            snakeY[i] = snakeY[i - 1];
+        }
+
+        snakeX[0] = snakeHeadX;
+        snakeY[0] = snakeHeadY;
+    }
+
+    static void CheckCollision()
+    {
+        if (snakeX[0] == foodX && snakeY[0] == foodY)
+        {
+            snakeLength++;
+            GenerateFood();
+        }
+
+        if (snakeX[0] == 0 || snakeX[0] == screenWidth - 1 || snakeY[0] == 0 || snakeY[0] == screenHeight - 1)
+        {
+            gameover = true;
+        }
+
+        for (int i = 1; i < snakeLength; i++)
+        {
+            if (snakeX[0] == snakeX[i] && snakeY[0] == snakeY[i])
             {
-                prev2X = tailX[i];
-                prev2Y = tailY[i];
-                tailX[i] = prevX;
-                tailY[i] = prevY;
-                prevX = prev2X;
-                prevY = prev2Y;
+                gameover = true;
+                break;
             }
+        }
+    }
 
-            switch (direction)
-            {
-                case Direction.Up:
-                    snakeY--;
-                    break;
-                case Direction.Down:
-                    snakeY++;
-                    break;
-                case Direction.Left:
-                    snakeX--;
-                    break;
-                case Direction.Right:
-                    snakeX++;
-                    break;
-            }
+    static void DrawScreen()
+    {
+        Console.Clear();
 
-            if (snakeX < 0 || snakeX >= width || snakeY < 0 || snakeY >= height)
-                gameOver = true;
+        for (int i = 0; i < screenWidth; i++)
+        {
+            Console.SetCursorPosition(i, 0);
+            Console.Write(wallSymbol);
+            Console.SetCursorPosition(i, screenHeight - 1);
+            Console.Write(wallSymbol);
+        }
 
-            for (int i = 0; i < tailLength; i++)
-            {
-                if (tailX[i] == snakeX && tailY[i] == snakeY)
-                    gameOver = true;
-            }
+        for (int i = 1; i < screenHeight - 1; i++)
+        {
+            Console.SetCursorPosition(0, i);
+            Console.Write(wallSymbol);
+            Console.SetCursorPosition(screenWidth - 1, i);
+            Console.Write(wallSymbol);
+        }
 
-            if (snakeX == fruitX && snakeY == fruitY)
-            {
-                Random random = new Random();
-                score += 10;
-                fruitX = random.Next(0, width);
-                fruitY = random.Next(0, height);
-                tailLength++;
-            }
+        Console.SetCursorPosition(foodX, foodY);
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.Write(foodSymbol);
+
+        Console.SetCursorPosition(snakeX[0], snakeY[0]);
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.Write(snakeSymbol);
+
+        for (int i = 1; i < snakeLength; i++)
+        {
+            Console.SetCursorPosition(snakeX[i], snakeY[i]);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write(snakeSymbol);
         }
     }
 }
