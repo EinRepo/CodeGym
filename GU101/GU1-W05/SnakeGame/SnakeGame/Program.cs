@@ -5,8 +5,9 @@ class Program
 {
     static int screenWidth = 20;
     static int screenHeight = 10;
-    static char snakeSymbol = 'O';
-    static char foodSymbol = 'X';
+    static char snakeHeadSymbol = 'O';
+    static char snakeBodySymbol = '■';
+    static char foodSymbol = '@';
     static char wallSymbol = '#';
 
     static int[] snakeX;
@@ -16,13 +17,14 @@ class Program
     static int foodY;
     static ConsoleKeyInfo keyInfo;
     static ConsoleKey currentDirection;
+    static int score = 0;   
     static bool gameover;
 
     static void Main(string[] args)
     {
         Console.CursorVisible = false;
-        Console.SetWindowSize(screenWidth, screenHeight + 2);
-        Console.SetBufferSize(screenWidth, screenHeight + 2);
+        Console.SetWindowSize(screenWidth, screenHeight + 3);
+        Console.SetBufferSize(screenWidth, screenHeight + 3);
         Console.ForegroundColor = ConsoleColor.Green;
 
         InitializeGame();
@@ -35,14 +37,17 @@ class Program
                 currentDirection = keyInfo.Key;
             }
 
-            MoveSnake();
             CheckCollision();
+            if (!gameover)
+            {
+                MoveSnake();
+            }           
             DrawScreen();
 
-            Thread.Sleep(200);
+            Thread.Sleep(250);
         }
 
-        Console.SetCursorPosition(0, screenHeight);
+        Console.SetCursorPosition(0, screenHeight + 1);
         Console.WriteLine("Game Over. Press any key to exit...");
         Console.ReadKey();
     }
@@ -64,8 +69,24 @@ class Program
     static void GenerateFood()
     {
         Random random = new Random();
-        foodX = random.Next(1, screenWidth - 1);
-        foodY = random.Next(1, screenHeight - 1);
+        bool validPosition = false;
+
+        while (!validPosition)
+        {
+            foodX = random.Next(1, screenWidth - 1);
+            foodY = random.Next(1, screenHeight - 1);
+
+            validPosition = true;
+
+            for (int i = 0; i < snakeLength; i++)
+            {
+                if (snakeX[i] == foodX && snakeY[i] == foodY)
+                {
+                    validPosition = false;
+                    break;
+                }
+            }
+        }
     }
 
     static void MoveSnake()
@@ -104,6 +125,7 @@ class Program
         if (snakeX[0] == foodX && snakeY[0] == foodY)
         {
             snakeLength++;
+            score += 10;
             GenerateFood();
         }
 
@@ -128,6 +150,7 @@ class Program
 
         for (int i = 0; i < screenWidth; i++)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.SetCursorPosition(i, 0);
             Console.Write(wallSymbol);
             Console.SetCursorPosition(i, screenHeight - 1);
@@ -143,18 +166,24 @@ class Program
         }
 
         Console.SetCursorPosition(foodX, foodY);
-        Console.ForegroundColor = ConsoleColor.Red;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.Write(foodSymbol);
 
         Console.SetCursorPosition(snakeX[0], snakeY[0]);
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.Write(snakeSymbol);
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.Write(snakeHeadSymbol);
 
         for (int i = 1; i < snakeLength; i++)
         {
             Console.SetCursorPosition(snakeX[i], snakeY[i]);
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write(snakeSymbol);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write(snakeBodySymbol);
         }
+
+        //scores
+        Console.SetCursorPosition(0, screenHeight);
+        Console.ForegroundColor = ConsoleColor.White;
+        Console.WriteLine("SCORE: " + score);
+
     }
 }
