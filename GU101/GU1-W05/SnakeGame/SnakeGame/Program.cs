@@ -54,7 +54,7 @@ class Program
 
     static void InitializeGame()
     {
-        int maxSnakeLength = (screenWidth -2) * (screenHeight - 2);
+        int maxSnakeLength = (screenWidth - 2) * (screenHeight - 2);
         snakeX = new int[maxSnakeLength];
         snakeY = new int[maxSnakeLength];
         snakeLength = 1;

@@ -1,7 +1,0 @@
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\bin\Debug\TimesAppeared.exe.config
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\bin\Debug\TimesAppeared.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\bin\Debug\TimesAppeared.pdb
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\obj\Debug\TimesAppeared.csproj.AssemblyReference.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\obj\Debug\TimesAppeared.csproj.CoreCompileInputs.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\obj\Debug\TimesAppeared.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\TimesAppeared\TimesAppeared\obj\Debug\TimesAppeared.pdb

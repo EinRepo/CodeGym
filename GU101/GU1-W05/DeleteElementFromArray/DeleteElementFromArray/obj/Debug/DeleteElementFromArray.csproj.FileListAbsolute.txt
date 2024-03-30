@@ -1,7 +1,0 @@
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\bin\Debug\DeleteElementFromArray.exe.config
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\bin\Debug\DeleteElementFromArray.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\bin\Debug\DeleteElementFromArray.pdb
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\obj\Debug\DeleteElementFromArray.csproj.AssemblyReference.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\obj\Debug\DeleteElementFromArray.csproj.CoreCompileInputs.cache
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\obj\Debug\DeleteElementFromArray.exe
-C:\Users\Thien\Desktop\CodeGym\GU101\GU1-W05\DeleteElementFromArray\DeleteElementFromArray\obj\Debug\DeleteElementFromArray.pdb
